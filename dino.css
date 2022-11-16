@@ -28,13 +28,13 @@ body {
 
 #TRex {
     background-image: url('TRex2Short.jpg');
-    background-size: 100% 100%;
+/*     background-size: 100% 100%; */
     width: 50px;
     height: 50px;
     position: relative;
     left: 10px;
     top: 150px;
-    z-index: 2;
+    z-index: 8;
 }
 
 #cactus {
